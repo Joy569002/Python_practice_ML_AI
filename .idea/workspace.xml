@@ -4,34 +4,139 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a68fd7d-a8e4-4e93-aea9-5c74da33c331" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/decoration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorator/ml_optimizer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machine_learning/Position_Salaries.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machine_learning/Salary_Data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machine_learning/Social_Network_Ads.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/Section 14 - Logistic Regression/Python/Social_Network_Ads.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/Section 14 - Logistic Regression/Python/logistic_regression.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/Section 14 - Logistic Regression/R/Social_Network_Ads.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/Section 14 - Logistic Regression/R/logistic_regression.R" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/Section 15 - K-Nearest Neighbors (K-NN)/Python/Social_Network_Ads.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/Section 15 - K-Nearest Neighbors (K-NN)/Python/k_nearest_neighbors.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/Section 15 - K-Nearest Neighbors (K-NN)/R/Social_Network_Ads.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/Section 15 - K-Nearest Neighbors (K-NN)/R/classification_template.R" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/Section 15 - K-Nearest Neighbors (K-NN)/R/knn.R" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machine_learning/linear_regrsion_simple.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machine_learning/logicstic_regression_practice.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machine_learning/logistic_regression.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machine_learning/multiple_linear_regression.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machine_learning/placement.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machine_learning/polynomial_regression.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machine_learning/simple_linear_regression.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/network_programing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/network_programing/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/network_programing/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop.py" afterDir="false" />
+    <list default="true" id="4a68fd7d-a8e4-4e93-aea9-5c74da33c331" name="Changes" comment="1st">
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 10 - Model Selection &amp; Boosting/Part 10 - Model Selection &amp; Boosting/Section 48 - Model Selection/Python/grid_search.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 10 - Model Selection &amp; Boosting/Part 10 - Model Selection &amp; Boosting/Section 48 - Model Selection/R/Social_Network_Ads.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 10 - Model Selection &amp; Boosting/Part 10 - Model Selection &amp; Boosting/Section 48 - Model Selection/R/grid_search.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 10 - Model Selection &amp; Boosting/Part 10 - Model Selection &amp; Boosting/Section 48 - Model Selection/R/k_fold_cross_validation.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 10 - Model Selection &amp; Boosting/Part 10 - Model Selection &amp; Boosting/Section 49 - XGBoost/Python/Data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 10 - Model Selection &amp; Boosting/Part 10 - Model Selection &amp; Boosting/Section 49 - XGBoost/Python/xg_boost.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 10 - Model Selection &amp; Boosting/Part 10 - Model Selection &amp; Boosting/Section 49 - XGBoost/R/Churn_Modelling.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 10 - Model Selection &amp; Boosting/Part 10 - Model Selection &amp; Boosting/Section 49 - XGBoost/R/xg_boost.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 2 - Regression/Section 4 - Simple Linear Regression/Python/simple_linear_regression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 2 - Regression/Section 4 - Simple Linear Regression/R/Salary_Data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 2 - Regression/Section 4 - Simple Linear Regression/R/data_preprocessing_template.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 2 - Regression/Section 4 - Simple Linear Regression/R/simple_linear_regression.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 2 - Regression/Section 5 - Multiple Linear Regression/Python/50_Startups.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 2 - Regression/Section 5 - Multiple Linear Regression/Python/multiple_linear_regression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 2 - Regression/Section 5 - Multiple Linear Regression/R/50_Startups.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 2 - Regression/Section 5 - Multiple Linear Regression/R/data_preprocessing_template.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 2 - Regression/Section 5 - Multiple Linear Regression/R/multiple_linear_regression.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 2 - Regression/Section 6 - Polynomial Regression/R/data_preprocessing_template.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 2 - Regression/Section 6 - Polynomial Regression/R/polynomial_regression.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 2 - Regression/Section 7 - Support Vector Regression (SVR)/Python/Position_Salaries.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 2 - Regression/Section 7 - Support Vector Regression (SVR)/Python/support_vector_regression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 2 - Regression/Section 7 - Support Vector Regression (SVR)/R/Position_Salaries.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 2 - Regression/Section 7 - Support Vector Regression (SVR)/R/data_preprocessing_template.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 2 - Regression/Section 7 - Support Vector Regression (SVR)/R/svr.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 2 - Regression/Section 8 - Decision Tree Regression/Python/Position_Salaries.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 2 - Regression/Section 8 - Decision Tree Regression/Python/decision_tree_regression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 2 - Regression/Section 8 - Decision Tree Regression/R/Position_Salaries.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 2 - Regression/Section 8 - Decision Tree Regression/R/decision_tree_regression.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 2 - Regression/Section 8 - Decision Tree Regression/R/regression_template.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 2 - Regression/Section 9 - Random Forest Regression/Python/Position_Salaries.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 2 - Regression/Section 9 - Random Forest Regression/Python/random_forest_regression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 2 - Regression/Section 9 - Random Forest Regression/R/Position_Salaries.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 2 - Regression/Section 9 - Random Forest Regression/R/random_forest_regression.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 2 - Regression/Section 9 - Random Forest Regression/R/regression_template.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 3 - Classification/Part 3 - Classification/Section 16 - Support Vector Machine (SVM)/Python/Social_Network_Ads.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 3 - Classification/Part 3 - Classification/Section 16 - Support Vector Machine (SVM)/Python/support_vector_machine.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 3 - Classification/Part 3 - Classification/Section 16 - Support Vector Machine (SVM)/R/Social_Network_Ads.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 3 - Classification/Part 3 - Classification/Section 16 - Support Vector Machine (SVM)/R/classification_template.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 3 - Classification/Part 3 - Classification/Section 16 - Support Vector Machine (SVM)/R/svm.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 3 - Classification/Part 3 - Classification/Section 17 - Kernel SVM/Python/Social_Network_Ads.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 3 - Classification/Part 3 - Classification/Section 17 - Kernel SVM/Python/kernel_svm.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 3 - Classification/Part 3 - Classification/Section 17 - Kernel SVM/R/Social_Network_Ads.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 3 - Classification/Part 3 - Classification/Section 17 - Kernel SVM/R/classification_template.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 3 - Classification/Part 3 - Classification/Section 17 - Kernel SVM/R/kernel_svm.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 3 - Classification/Part 3 - Classification/Section 18 - Naive Bayes/Python/Social_Network_Ads.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 3 - Classification/Part 3 - Classification/Section 18 - Naive Bayes/Python/naive_bayes.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 3 - Classification/Part 3 - Classification/Section 18 - Naive Bayes/R/Social_Network_Ads.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 3 - Classification/Part 3 - Classification/Section 18 - Naive Bayes/R/classification_template.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 3 - Classification/Part 3 - Classification/Section 18 - Naive Bayes/R/naive_bayes.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 3 - Classification/Part 3 - Classification/Section 19 - Decision Tree Classification/Python/Social_Network_Ads.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 3 - Classification/Part 3 - Classification/Section 19 - Decision Tree Classification/Python/decision_tree_classification.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 3 - Classification/Part 3 - Classification/Section 19 - Decision Tree Classification/R/Social_Network_Ads.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 3 - Classification/Part 3 - Classification/Section 19 - Decision Tree Classification/R/classification_template.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 3 - Classification/Part 3 - Classification/Section 19 - Decision Tree Classification/R/decision_tree_classification.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 3 - Classification/Part 3 - Classification/Section 20 - Random Forest Classification/Python/Social_Network_Ads.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 3 - Classification/Part 3 - Classification/Section 20 - Random Forest Classification/Python/random_forest_classification.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 3 - Classification/Part 3 - Classification/Section 20 - Random Forest Classification/R/Social_Network_Ads.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 3 - Classification/Part 3 - Classification/Section 20 - Random Forest Classification/R/classification_template.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 3 - Classification/Part 3 - Classification/Section 20 - Random Forest Classification/R/random_forest_classification.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 4 - Clustering/Part 4 - Clustering/Section 24 - K-Means Clustering/Python/Mall_Customers.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 4 - Clustering/Part 4 - Clustering/Section 24 - K-Means Clustering/Python/k_means_clustering.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 4 - Clustering/Part 4 - Clustering/Section 24 - K-Means Clustering/R/data_preprocessing_template.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 4 - Clustering/Part 4 - Clustering/Section 24 - K-Means Clustering/R/k_means_clustering.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 4 - Clustering/Part 4 - Clustering/Section 24 - K-Means Clustering/R/mall.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 4 - Clustering/Part 4 - Clustering/Section 25 - Hierarchical Clustering/Python/Mall_Customers.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 4 - Clustering/Part 4 - Clustering/Section 25 - Hierarchical Clustering/Python/hierarchical_clustering.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 4 - Clustering/Part 4 - Clustering/Section 25 - Hierarchical Clustering/R/Mall_Customers.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 4 - Clustering/Part 4 - Clustering/Section 25 - Hierarchical Clustering/R/data_preprocessing_template.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 4 - Clustering/Part 4 - Clustering/Section 25 - Hierarchical Clustering/R/hc.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 5 - Association Rule Learning/Part 5 - Association Rule Learning/Section 28 - Apriori/Python/Market_Basket_Optimisation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 5 - Association Rule Learning/Part 5 - Association Rule Learning/Section 28 - Apriori/Python/apriori.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 5 - Association Rule Learning/Part 5 - Association Rule Learning/Section 28 - Apriori/R/Market_Basket_Optimisation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 5 - Association Rule Learning/Part 5 - Association Rule Learning/Section 28 - Apriori/R/apriori.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 5 - Association Rule Learning/Part 5 - Association Rule Learning/Section 29 - Eclat/Python/Market_Basket_Optimisation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 5 - Association Rule Learning/Part 5 - Association Rule Learning/Section 29 - Eclat/Python/eclat.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 5 - Association Rule Learning/Part 5 - Association Rule Learning/Section 29 - Eclat/R/Market_Basket_Optimisation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 5 - Association Rule Learning/Part 5 - Association Rule Learning/Section 29 - Eclat/R/eclat.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 6 - Reinforcement Learning/Part 6 - Reinforcement Learning/Section 32 - Upper Confidence Bound (UCB)/Python/Ads_CTR_Optimisation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 6 - Reinforcement Learning/Part 6 - Reinforcement Learning/Section 32 - Upper Confidence Bound (UCB)/R/Ads_CTR_Optimisation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 6 - Reinforcement Learning/Part 6 - Reinforcement Learning/Section 32 - Upper Confidence Bound (UCB)/R/random_selection.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 6 - Reinforcement Learning/Part 6 - Reinforcement Learning/Section 32 - Upper Confidence Bound (UCB)/R/upper_confidence_bound.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 6 - Reinforcement Learning/Part 6 - Reinforcement Learning/Section 32 - Upper Confidence Bound (UCB)/UCB_Algorithm_Slide.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 6 - Reinforcement Learning/Part 6 - Reinforcement Learning/Section 33 - Thompson Sampling/Python/Ads_CTR_Optimisation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 6 - Reinforcement Learning/Part 6 - Reinforcement Learning/Section 33 - Thompson Sampling/Python/thompson_sampling.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 6 - Reinforcement Learning/Part 6 - Reinforcement Learning/Section 33 - Thompson Sampling/R/Ads_CTR_Optimisation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 6 - Reinforcement Learning/Part 6 - Reinforcement Learning/Section 33 - Thompson Sampling/R/random_selection.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 6 - Reinforcement Learning/Part 6 - Reinforcement Learning/Section 33 - Thompson Sampling/R/thompson_sampling.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 6 - Reinforcement Learning/Part 6 - Reinforcement Learning/Section 33 - Thompson Sampling/Thompson_Sampling_Slide.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 7 - Natural Language Processing/Section 36 - Natural Language Processing/Python/Restaurant_Reviews.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 7 - Natural Language Processing/Section 36 - Natural Language Processing/Python/natural_language_processing.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 7 - Natural Language Processing/Section 36 - Natural Language Processing/R/Restaurant_Reviews.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 7 - Natural Language Processing/Section 36 - Natural Language Processing/R/natural_language_processing.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 8 - Deep Learning/Section 39 - Artificial Neural Networks (ANN)/Python/Churn_Modelling.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 8 - Deep Learning/Section 39 - Artificial Neural Networks (ANN)/Python/artificial_neural_network.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 8 - Deep Learning/Section 39 - Artificial Neural Networks (ANN)/R/Churn_Modelling.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 8 - Deep Learning/Section 39 - Artificial Neural Networks (ANN)/R/ann.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 8 - Deep Learning/Section 39 - Artificial Neural Networks (ANN)/Stochastic_Gradient_Descent.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 8 - Deep Learning/Section 40 - Convolutional Neural Networks (CNN)/Python/convolutional_neural_network.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 9 - Dimensionality Reduction/Section 43 - Principal Component Analysis (PCA)/Python/Wine.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 9 - Dimensionality Reduction/Section 43 - Principal Component Analysis (PCA)/Python/principal_component_analysis.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 9 - Dimensionality Reduction/Section 43 - Principal Component Analysis (PCA)/R/Wine.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 9 - Dimensionality Reduction/Section 43 - Principal Component Analysis (PCA)/R/pca.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 9 - Dimensionality Reduction/Section 44 - Linear Discriminant Analysis (LDA)/Python/Wine.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 9 - Dimensionality Reduction/Section 44 - Linear Discriminant Analysis (LDA)/Python/linear_discriminant_analysis.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 9 - Dimensionality Reduction/Section 44 - Linear Discriminant Analysis (LDA)/R/Wine.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 9 - Dimensionality Reduction/Section 44 - Linear Discriminant Analysis (LDA)/R/lda.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 9 - Dimensionality Reduction/Section 45 - Kernel PCA/Python/Wine.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 9 - Dimensionality Reduction/Section 45 - Kernel PCA/Python/kernel_pca.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 9 - Dimensionality Reduction/Section 45 - Kernel PCA/R/Social_Network_Ads.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 9 - Dimensionality Reduction/Section 45 - Kernel PCA/R/kernel_pca.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/practice/check.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/matrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/decorator/ml_optimizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/machine_learning/ml_optimizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine_learning/Position_Salaries.csv" beforeDir="false" afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 2 - Regression/Section 6 - Polynomial Regression/R/Position_Salaries.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine_learning/Salary_Data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 2 - Regression/Section 4 - Simple Linear Regression/Python/Salary_Data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine_learning/Social_Network_Ads.csv" beforeDir="false" afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 10 - Model Selection &amp; Boosting/Part 10 - Model Selection &amp; Boosting/Section 48 - Model Selection/Python/Social_Network_Ads.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine_learning/course_file/Section 14 - Logistic Regression/Python/Social_Network_Ads.csv" beforeDir="false" afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 3 - Classification/Part 3 - Classification/Section 14 - Logistic Regression/Python/Social_Network_Ads.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine_learning/course_file/Section 14 - Logistic Regression/Python/logistic_regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 3 - Classification/Part 3 - Classification/Section 14 - Logistic Regression/Python/logistic_regression.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine_learning/course_file/Section 14 - Logistic Regression/R/Social_Network_Ads.csv" beforeDir="false" afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 3 - Classification/Part 3 - Classification/Section 14 - Logistic Regression/R/Social_Network_Ads.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine_learning/course_file/Section 14 - Logistic Regression/R/logistic_regression.R" beforeDir="false" afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 3 - Classification/Part 3 - Classification/Section 14 - Logistic Regression/R/logistic_regression.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine_learning/course_file/Section 15 - K-Nearest Neighbors (K-NN)/Python/Social_Network_Ads.csv" beforeDir="false" afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 3 - Classification/Part 3 - Classification/Section 15 - K-Nearest Neighbors (K-NN)/Python/Social_Network_Ads.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine_learning/course_file/Section 15 - K-Nearest Neighbors (K-NN)/Python/k_nearest_neighbors.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 3 - Classification/Part 3 - Classification/Section 15 - K-Nearest Neighbors (K-NN)/Python/k_nearest_neighbors.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine_learning/course_file/Section 15 - K-Nearest Neighbors (K-NN)/R/Social_Network_Ads.csv" beforeDir="false" afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 3 - Classification/Part 3 - Classification/Section 15 - K-Nearest Neighbors (K-NN)/R/Social_Network_Ads.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine_learning/course_file/Section 15 - K-Nearest Neighbors (K-NN)/R/classification_template.R" beforeDir="false" afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 3 - Classification/Part 3 - Classification/Section 15 - K-Nearest Neighbors (K-NN)/R/classification_template.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine_learning/course_file/Section 15 - K-Nearest Neighbors (K-NN)/R/knn.R" beforeDir="false" afterPath="$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 3 - Classification/Part 3 - Classification/Section 15 - K-Nearest Neighbors (K-NN)/R/knn.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine_learning/linear_regrsion_simple.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine_learning/logicstic_regression_practice.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine_learning/logistic_regression.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine_learning/multiple_linear_regression.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine_learning/placement.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine_learning/polynomial_regression.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine_learning/simple_linear_regression.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,8 +172,10 @@
     &quot;Python.server.executor&quot;: &quot;Run&quot;,
     &quot;Python.smartString.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Tanjim/PycharmProjects/PythonProject/machine_learning/course_file&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -85,6 +192,7 @@
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Tanjim\PycharmProjects\PythonProject\machine_learning" />
+      <recent name="C:\Users\Tanjim\PycharmProjects\PythonProject\machine_learning\practice" />
       <recent name="C:\Users\Tanjim\PycharmProjects\PythonProject" />
     </key>
   </component>
@@ -170,12 +278,31 @@
       <workItem from="1756757995270" duration="944000" />
       <workItem from="1756837906228" duration="3285000" />
       <workItem from="1757049006692" duration="7662000" />
-      <workItem from="1757158458569" duration="2860000" />
+      <workItem from="1757158458569" duration="3236000" />
+      <workItem from="1757190650704" duration="3019000" />
+      <workItem from="1757281785266" duration="2327000" />
+      <workItem from="1757352486676" duration="605000" />
+      <workItem from="1757616659035" duration="1894000" />
+      <workItem from="1757678607821" duration="753000" />
+      <workItem from="1758116464782" duration="1452000" />
     </task>
+    <task id="LOCAL-00001" summary="1st">
+      <option name="closed" value="true" />
+      <created>1757162159356</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1757162159356</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1st" />
+    <option name="LAST_COMMIT_MESSAGE" value="1st" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -186,19 +313,14 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/machine_learning/linear_regrsion_simple.ipynb</url>
-          <line>28</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/machine_learning/linear_regrsion_simple.ipynb</url>
-          <line>31</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>file://E:/courses/Udemy - Machine Learning A-Z AI, Python &amp; R + ChatGPT Prize 2025 2025-3/05. -------------------- Part 2 Regression --------------------/Part 2 - Regression/Section 4 - Simple Linear Regression/Python/simple_linear_regression.ipynb</url>
           <line>11</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 2 - Regression/Section 5 - Multiple Linear Regression/Python/multiple_linear_regression.ipynb</url>
+          <line>5</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
