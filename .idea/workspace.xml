@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a68fd7d-a8e4-4e93-aea9-5c74da33c331" name="Changes" comment="2nd">
+    <list default="true" id="4a68fd7d-a8e4-4e93-aea9-5c74da33c331" name="Changes" comment="added_datasets_and_did_some_coding">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,8 +31,8 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Ashborn2411/Python_ml_and_practice.git&quot;,
-    &quot;accountId&quot;: &quot;2fb4ed62-110b-4d2b-a33b-a259b68a234c&quot;
+    &quot;url&quot;: &quot;https://github.com/Joy569002/Python_practice_ML_AI&quot;,
+    &quot;accountId&quot;: &quot;11e441b8-eb45-4e1b-8741-65475292d7ba&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -57,7 +57,7 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/python_project/PythonProject&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Tanjim/PycharmProjects/2nd&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -69,10 +69,12 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Tanjim\PycharmProjects\2nd" />
       <recent name="C:\Users\Tanjim\PycharmProjects\PythonProject\machine_learning\course_file" />
       <recent name="C:\Users\Tanjim\PycharmProjects\PythonProject\machine_learning" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Tanjim\PycharmProjects\2nd\machine_learning" />
       <recent name="C:\Users\Tanjim\PycharmProjects\PythonProject\machine_learning" />
       <recent name="C:\Users\Tanjim\PycharmProjects\PythonProject\machine_learning\practice" />
       <recent name="C:\Users\Tanjim\PycharmProjects\PythonProject" />
@@ -135,7 +137,6 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-PY-252.23892.515" />
         <option value="bundled-python-sdk-7e47963ff851-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.515" />
       </set>
     </attachedChunks>
@@ -204,7 +205,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758137932745</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added_datasets_and_did_some_coding">
+      <option name="closed" value="true" />
+      <created>1758363477798</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1758363477798</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,8 +232,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1st" />
+    <MESSAGE value="Update README.md" />
     <MESSAGE value="2nd" />
-    <option name="LAST_COMMIT_MESSAGE" value="2nd" />
+    <MESSAGE value="added_datasets_and_did_some_coding" />
+    <option name="LAST_COMMIT_MESSAGE" value="added_datasets_and_did_some_coding" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -238,11 +249,6 @@
           <url>file://$USER_HOME$/courses/Udemy - Machine Learning A-Z AI, Python &amp; R + ChatGPT Prize 2025 2025-3/05. -------------------- Part 2 Regression --------------------/Part 2 - Regression/Section 4 - Simple Linear Regression/Python/simple_linear_regression.ipynb</url>
           <line>11</line>
           <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/machine_learning/course_file/course_file_py_dataset/Part 2 - Regression/Section 5 - Multiple Linear Regression/Python/multiple_linear_regression.ipynb</url>
-          <line>5</line>
-          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
