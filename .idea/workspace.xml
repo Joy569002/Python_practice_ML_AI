@@ -235,7 +235,7 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/../../courses/Udemy - Machine Learning A-Z AI, Python &amp; R + ChatGPT Prize 2025 2025-3/05. -------------------- Part 2 Regression --------------------/Part 2 - Regression/Section 4 - Simple Linear Regression/Python/simple_linear_regression.ipynb</url>
+          <url>file://$USER_HOME$/courses/Udemy - Machine Learning A-Z AI, Python &amp; R + ChatGPT Prize 2025 2025-3/05. -------------------- Part 2 Regression --------------------/Part 2 - Regression/Section 4 - Simple Linear Regression/Python/simple_linear_regression.ipynb</url>
           <line>11</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
