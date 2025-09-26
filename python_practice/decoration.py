@@ -1,12 +1,2 @@
-def decorator(func):
-    def wrapper():
-        print("*******")
-        func()
-        print("*******")
-    return wrapper
-
-@decorator
-def hello():
-    print("hello")
-
-hello()
+a,b=2,2
+print(a,b)
