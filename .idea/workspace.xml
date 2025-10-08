@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a68fd7d-a8e4-4e93-aea9-5c74da33c331" name="Changes" comment="added_some_books_on_machine_learning">
-      <change afterPath="$PROJECT_DIR$/problem_solve_tracker/codeforce.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deep_learning/tensorflow/RNN.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
